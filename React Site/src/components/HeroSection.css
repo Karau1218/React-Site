@@ -1,0 +1,17 @@
+.hero {
+    padding: 30px;
+    background-color: white;
+    text-align: center;
+}
+
+.hero img {
+    width: 200px;
+    margin-top: 15px;
+}
+.card {
+  transition: 0.2s ease;
+}
+
+.card:hover {
+  transform: scale(1.03);
+}

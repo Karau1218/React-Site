@@ -1,0 +1,16 @@
+.header {
+    background-color: #333;
+    color: white;
+    padding: 15px;
+}
+
+.header ul {
+    display: flex;
+    gap: 15px;
+    list-style: none;
+}
+
+.header a {
+    color: white;
+    text-decoration: none;
+}
