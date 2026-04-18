@@ -20,8 +20,9 @@ export default function HeroSection() {
             <li>Learn modern tools</li>
             </ul>
 
-            <img src="/hero.png" alt="Person coding on a laptop" />
-            <img src="/course.png" alt="Java course illustration" />
+            {/* adds images well when wanting to deploy */}
+            <img src="/React-Site/hero.png" alt="Person coding on a laptop" />
+            <img src="/React-Site/course.png" alt="Java course illustration" />
         </main>
     )
 }
