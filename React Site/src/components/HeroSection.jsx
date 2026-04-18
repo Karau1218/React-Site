@@ -13,15 +13,15 @@ export default function HeroSection() {
                 I'm learning React to improve my coding skills and build modern applications.
             </p>
 
-            <ul>
-                <ol>Build real-world applications</ol>
-                <ol>Improve front-end skills</ol>
-                <ol>Prepare for tech jobs</ol>
-                <ol>Learn modern tools</ol>
+            <ul>          
+            <li>Build real-world applications</li>
+            <li>Improve front-end skills</li>
+            <li>Prepare for tech jobs</li>
+            <li>Learn modern tools</li>
             </ul>
 
-            <img src="hero.png" alt="Person coding on a laptop" />
-            <img src="course.png" alt="Java course illustration" />
+            <img src="/hero.png" alt="Person coding on a laptop" />
+            <img src="/course.png" alt="Java course illustration" />
         </main>
     )
 }
